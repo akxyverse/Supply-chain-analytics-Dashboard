@@ -2,8 +2,14 @@
 
 A comprehensive data analytics system for analyzing supply chain delivery performance, agent efficiency, and operational insights using Python and interactive dashboards.
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28-red?style=flat-square&logo=streamlit)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
