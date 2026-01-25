@@ -4,48 +4,32 @@ __pycache__/
 *$py.class
 *.so
 .Python
-env/
-venv/
-ENV/
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
 *.egg
 
 # Virtual Environment
 venv/
-ENV/
 env/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
-*~
 
-# OS
+# OS Files
 .DS_Store
 Thumbs.db
+*.tmp
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
-
-# Data files (optional - uncomment if you want to exclude large data)
-# data/raw/
-# data/processed/
 
 # Streamlit
 .streamlit/
@@ -57,7 +41,10 @@ Thumbs.db
 # Logs
 *.log
 
-# Temporary files
-*.tmp
-*.bak
+# Cache
 *.cache
+.pytest_cache/
+
+# Data (optional - uncomment to exclude data files)
+# data/raw/*.csv
+# data/processed/*.csv
