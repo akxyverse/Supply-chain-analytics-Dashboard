@@ -120,7 +120,7 @@ st.markdown("---")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv('data/processed/cleaned_data.csv')
+    df = pd.read_csv('DATA/processed/cleaned_data.csv')
     df['Order_Date'] = pd.to_datetime(df['Order_Date'])
     return df
 
