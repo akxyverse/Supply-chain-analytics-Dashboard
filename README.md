@@ -2,14 +2,14 @@
 
 A comprehensive data analytics system for analyzing supply chain delivery performance, agent efficiency, and operational insights using Python and interactive dashboards.
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7DB0BC?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 ---
