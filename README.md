@@ -14,6 +14,14 @@ A comprehensive data analytics system for analyzing supply chain delivery perfor
 
 ---
 
+## 🚀 Live Dashboard
+
+**🌐 [Access Live Dashboard Here](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)**
+
+Experience the interactive analytics dashboard deployed on Streamlit Cloud with real-time data filtering and comprehensive visualizations.
+
+---
+
 ## 🎯 Overview
 
 This project analyzes **43,739 delivery orders** to provide actionable insights on:
@@ -62,6 +70,7 @@ This project analyzes **43,739 delivery orders** to provide actionable insights 
 
 ### **Dashboard & UI**
 - **Streamlit 1.28.0** - Interactive web dashboard
+- **Streamlit Cloud** - Dashboard deployment platform
 
 ### **Development Tools**
 - **VS Code** - Primary code editor
@@ -175,6 +184,9 @@ streamlit run app.py
 ```
 Open browser to `http://localhost:8501`
 
+**Or visit the live deployed version:**
+**🌐 https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/**
+
 ---
 
 ## 📊 Key Insights & Findings
@@ -256,7 +268,19 @@ Open browser to `http://localhost:8501`
 - Time-based patterns
 - Weather/traffic correlations
 
+---
 
+## 🌐 Deployment
+
+This project is deployed on **Streamlit Cloud** for easy access and sharing.
+
+**Live Dashboard**: https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/
+
+### Deploy Your Own Version
+1. Fork this repository
+2. Sign up at [Streamlit Cloud](https://streamlit.io/cloud)
+3. Connect your GitHub repository
+4. Deploy with one click!
 
 ---
 
@@ -285,7 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🙏 Acknowledgments
 
 - **Kaggle** for providing the comprehensive dataset
-- **Streamlit** community for excellent documentation
+- **Streamlit** community for excellent documentation and hosting
 - **Python** data science ecosystem
 - Open-source contributors worldwide
 
@@ -296,7 +320,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 For detailed documentation on:
 - **Data schema**: See data exploration script
 - **Analytics methodology**: Check individual analysis scripts
-- **Dashboard usage**: Run `streamlit run app.py` for interactive guide
+- **Dashboard usage**: Visit the [live dashboard](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/) for interactive guide
 - **Visualization details**: Review visualization scripts
 
 ---
@@ -313,6 +337,8 @@ Found a bug or have suggestions?
 **⭐ If you find this project useful, please star the repository!**
 
 **🔄 Fork this project to create your own analytics system!**
+
+**🌐 [Try the Live Dashboard](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)**
 
 ---
 
