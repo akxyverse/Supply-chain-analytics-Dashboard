@@ -1,4 +1,4 @@
-# 📊 Supply Chain Analytics System
+# 📊 Supply Chain Analytics Dashboard
 
 A comprehensive data analytics system for analyzing supply chain delivery performance, agent efficiency, and operational insights using Python and interactive dashboards.
 
