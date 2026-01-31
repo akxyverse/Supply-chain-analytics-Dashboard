@@ -87,7 +87,7 @@ This project analyzes **43,739 delivery orders** to provide actionable insights 
 
 ## 📁 Project Structure
 ```
-supply-chain-analytics-system/
+supply-chain-analytics-dashboard/
 │
 ├── data/
 │   ├── raw/
